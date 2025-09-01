@@ -1,0 +1,5 @@
+{
+  "name": "Songwriter AI Studio",
+  "description": "An AI-powered assistant to help you write songs, generate lyrics, and create vocal demos. It detects genre and mood from your ideas and helps you export your work.",
+  "requestFramePermissions": []
+}
